@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.scss'
 
-function App() {
+function App(): React.ReactElement {
   return <div className="App">app</div>
 }
 
